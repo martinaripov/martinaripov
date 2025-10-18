@@ -1,8 +1,8 @@
 ## Hello 👋 I'm Martin
 
-*💡 Python-developer, I'm interested Backend.*
+***💡 Python-developer, I'm interested Backend.***
 
-🔧 My Hard Skills:*
+***🔧 My Hard Skills:***
 
 - *Python, OOP, algoritms*
 - *Telegram, pyrogram*
@@ -10,7 +10,9 @@
 - *Flask, REST API*
 - *SQLite*
 
-*📌 My projects:*
+***My Soft Skills:***
+
+***📌 My projects:***
 
 `- *[Flask API для погоды](https://github.com/user/weather-api)*`
 `- *[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*`
