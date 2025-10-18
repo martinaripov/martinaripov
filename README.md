@@ -14,7 +14,7 @@
 
 `- *[Flask API для погоды](https://github.com/user/weather-api)*`
 `- *[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*`
-`- *[Модель предсказания цен](https://github.com/user/prices)*`
+``- *[Модель предсказания цен](https://github.com/user/prices)*``
 
-`*📫 My contacts: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)*`
+``*📫 My contacts: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)*``
 
