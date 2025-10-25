@@ -12,6 +12,11 @@
 
 ***My Soft Skills:***
 
+- *Team work*
+- *Creativity*
+- *Comunication*
+- *Time managment*
+
 ***📌 My projects:***
 
 `- *[Flask API для погоды](https://github.com/user/weather-api)*`
